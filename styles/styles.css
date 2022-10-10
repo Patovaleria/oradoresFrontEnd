@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+}
+
+.font-Nav{
+    color: white;
+    font-weight: bold;
+}
+
+.font-Comprar-Tickets{
+    color: green;
+    font-weight: bold;
+}
+
+
+.fondo-bsaa{
+background-image: url(../resources/ba1\ -\ fondo\ oscuro.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    position: relative;
+    padding-bottom: 0%;
+    margin-top: 0px;
+
+}
+
+.texto-foto{
+color: white;
+text-align: right;
+margin-top: 110px;
+margin-right: 30px;
+
+
+}
+
+.parrafo-foto{
+    color: white;
+    text-align: right;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-right: 30px;
+    
+}
+
+.botones-font{
+    color: white;
+}
+
+h6{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.tarjetas-inline{
+    display: inline-block;
+    align-items: center;
+    justify-items: center;
+    
+}
+
+.fondo-oscuro{
+    background-color:#343a40 ;
+} 
+   
+.texto-fondo-oscuro{
+    color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.inputs-inline{
+    display: inline-block;
+}
+
+.formulario-alineacion{
+    justify-items:center
+}
+
+.texto-formulario{
+    text-align: left;
+    font-size: 10px;
+}
+
+.conteiner-footer{
+    background-color: #1c3846;
+    height: 80px;
+}
